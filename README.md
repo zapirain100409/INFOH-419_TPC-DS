@@ -6,3 +6,6 @@ This is the project of Integration Services to insert the data in the database. 
 
 # TPC_DS-Cube
 This is are creation of the cube. 
+
+# TPC-DS_v2.10.0rc2
+Here we include the TPC-DS folder with the modifications that we have done. Also we have attached the SQL queries, if you do not want to create them with the dsqgen. 
